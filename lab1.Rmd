@@ -22,6 +22,7 @@ Try to load the `ISLR` library
 library(ISLR)
 ```
 
+
 If it is not available you will need to install the  library from CRAN. Click on  *Packages*  then *Install*.  Enter the package name then click on the Install button.
 
 You can also install from the console/command line using
